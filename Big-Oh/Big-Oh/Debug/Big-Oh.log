@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\CXXX\source\repos\Big-Oh\Big-Oh\main.cpp(305,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Big-Oh.vcxproj -> C:\Users\CXXX\source\repos\Big-Oh\Debug\Big-Oh.exe
